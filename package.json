@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "./eslint-config/index.js",
-  "repository": "git@github.com:GavinKings/hbase.git",
+  "repository": "git@github.com:GavinKings/h-core.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
