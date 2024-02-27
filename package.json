@@ -1,0 +1,13 @@
+{
+  "name": "hbase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./eslint-config/index.js",
+  "repository": "git@github.com:GavinKings/hbase.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
