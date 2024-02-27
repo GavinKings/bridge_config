@@ -6,7 +6,7 @@ on:
     branches:
       - main
       - "releases/**"
-      - dev
+      
  
 # 按顺序运行作业
 jobs:
@@ -42,7 +42,7 @@ jobs:
           # 在第三步中设置的 ACCESS_TOKEN 
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           # 指定推送到的远程分支
-         BRANCH: release
+         BRANCH: releases
           # 指定构建之后的产出路径
         #  FOLDER: build
       - run: npm publish
