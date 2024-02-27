@@ -2,7 +2,7 @@
   "name": "hbase",
   "version": "1.0.0",
   "description": "",
-  "main": "./eslint-config/index.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/GavinKings/h-core.git"
