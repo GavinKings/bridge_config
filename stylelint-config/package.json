@@ -1,0 +1,23 @@
+{
+  "name": "@gavinkings/stylelint-config",
+  "version": "1.0.0",
+  "description": "stylelint config of gavinkings",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-recess-order": "^3.0.0",
+    "stylelint-config-standard": "^24.0.0",
+    "stylelint-order": "^5.0.0"
+  },
+  "devDependencies": {
+    "stylelint": "^14.3.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "tag": "beta",
+    "access": "public"
+  }
+}
